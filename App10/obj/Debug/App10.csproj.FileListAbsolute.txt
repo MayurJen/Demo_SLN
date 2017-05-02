@@ -1,0 +1,6 @@
+C:\mydotnetapps\App10\bin\Debug\App10.exe.config
+C:\mydotnetapps\App10\bin\Debug\App10.exe
+C:\mydotnetapps\App10\bin\Debug\App10.pdb
+C:\mydotnetapps\App10\obj\Debug\App10.csprojResolveAssemblyReference.cache
+C:\mydotnetapps\App10\obj\Debug\App10.exe
+C:\mydotnetapps\App10\obj\Debug\App10.pdb
