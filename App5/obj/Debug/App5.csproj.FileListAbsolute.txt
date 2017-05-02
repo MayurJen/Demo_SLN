@@ -1,0 +1,6 @@
+C:\mydotnetapps\App5\bin\Debug\App5.exe.config
+C:\mydotnetapps\App5\bin\Debug\App5.exe
+C:\mydotnetapps\App5\bin\Debug\App5.pdb
+C:\mydotnetapps\App5\obj\Debug\App5.csprojResolveAssemblyReference.cache
+C:\mydotnetapps\App5\obj\Debug\App5.exe
+C:\mydotnetapps\App5\obj\Debug\App5.pdb
