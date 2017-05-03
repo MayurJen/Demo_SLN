@@ -1,0 +1,1 @@
+echo "Multi branch pipeline"
